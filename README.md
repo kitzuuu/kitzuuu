@@ -1,0 +1,34 @@
+<h1 align="center">Toma Cristian Nitu</h1>
+
+<p align="center">
+  Final-year <b>Computer Science</b> student at Maastricht University 🇳🇱 · Graduating 2027
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/toma-cristian-nitu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
+</p>
+
+---
+
+👋 Hi! I like the point where technology meets people and business. I've built software in teams across data, machine learning, security and the web, including a React/TypeScript internship at **DocScout**. I've also spent years in customer-facing jobs in banking and retail, so I'm as comfortable explaining a system as building one.
+
+- 🔭 **Open to:** internships, working-student and graduate roles in tech consulting, data analysis and solutions engineering
+- 🌱 **Currently:** in the final year of my BSc in Computer Science
+- 🗣️ **Languages:** Romanian (native), English (proficient)
+
+## 🛠️ Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,mysql,pytorch,flask,prisma,tailwind,html,css,git&perline=7" alt="Python, Java, TypeScript, JavaScript, React, Next.js, MySQL, PyTorch, Flask, Prisma, Tailwind CSS, HTML, CSS, Git" />
+</p>
+
+## 🚀 Featured projects
+
+| Project | What it does | Built with |
+|:--|:--|:--|
+| 🦆 [**quackstagram**](https://github.com/kitzuuu/quackstagram) | Database and analytics for an Instagram-style app: a normalized MySQL schema, views that flag likely bot accounts, and 19 business-analytics queries. | SQL · MySQL · Java |
+| ✍️ [**hindi-digit-classifier**](https://github.com/kitzuuu/hindi-digit-classifier) | CNN that recognizes handwritten Hindi digits, trained on 17,000 images with data augmentation and test-time augmentation. | Python · PyTorch |
+| 🔐 [**comp-sec**](https://github.com/kitzuuu/comp-sec) | Digital-wallet web app built twice: once with six OWASP Top 10 vulnerabilities, once fully patched. | Next.js · TypeScript · MySQL |
+| 🏋️ [**GymBro**](https://github.com/kitzuuu/GymBro) | Fitness & nutrition planner: log meals in plain English via a nutrition API, track daily macros, get a workout plan. | Python · Flask · JavaScript |
+| 🚌 [**maastricht-maps**](https://github.com/kitzuuu/maastricht-maps) | Journey planner that finds the fastest walk + bus route through Maastricht with time-dependent Dijkstra. | Java · JavaFX · MySQL |
+| 📦 [**knapsack**](https://github.com/kitzuuu/knapsack) | Packs parcels and pentominoes into a 3D cargo hold and shows the result in an interactive 3D viewer. | Java · JavaFX |
