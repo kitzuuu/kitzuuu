@@ -10,7 +10,7 @@
 
 ---
 
-👋 Hi! I like the point where technology meets people and business. I've built software in teams across AI, IoT, data, security and the web, including a React/TypeScript internship at **DocScout**. I've also spent years in customer-facing jobs in banking and retail, so I'm as comfortable explaining a system as building one.
+👋 Hi! I'm a software engineer who likes building systems that work end to end: YOLO object detection running on a Raspberry Pi, time-dependent route planning over real bus timetables, and web apps hardened against the OWASP Top 10. I've written software in teams across AI, IoT, data, security and the web, including a React/TypeScript internship at **DocScout**. Years in customer-facing jobs in banking and retail also taught me to explain what I build as clearly as I build it.
 
 - 🔭 **Open to:** 2027 graduate software engineering roles
 - 🌱 **Currently:** in the final year of my BSc in Computer Science
