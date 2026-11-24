@@ -12,7 +12,7 @@
 
 👋 Hi! I like the point where technology meets people and business. I've built software in teams across AI, IoT, data, security and the web, including a React/TypeScript internship at **DocScout**. I've also spent years in customer-facing jobs in banking and retail, so I'm as comfortable explaining a system as building one.
 
-- 🔭 **Open to:** 2027 graduate roles in solutions engineering, AI and data engineering, tech consulting and software engineering
+- 🔭 **Open to:** 2027 graduate software engineering roles
 - 🌱 **Currently:** in the final year of my BSc in Computer Science
 - 🗣️ **Languages:** Romanian (native), English (proficient)
 
@@ -26,7 +26,7 @@
 
 | Project | What it does | Built with |
 |:--|:--|:--|
-| 🚨 [**whos-there**](https://github.com/kitzuuu/whos-there) | AI intruder detection on a Raspberry Pi 5: a motion sensor wakes YOLO person detection, and real intrusions trigger a Telegram alert with a GIF. Team of 7; I wired and integrated the sensor and set up the Pi. | Python · YOLO11n · OpenCV · Raspberry Pi |
+| 🚨 [**whos-there**](https://github.com/kitzuuu/whos-there) | AI intruder detection on a Raspberry Pi 5: a motion sensor wakes YOLO person detection, and real intrusions trigger a Telegram alert with a GIF. Team of 7; I was one of the two main developers and built the YOLO object-detection module, the motion-sensor integration and the energy monitoring. | Python · YOLO11n · OpenCV · Raspberry Pi |
 | ⚽ [**Champions of the C.U.B.E.**](https://github.com/moksonyb/AIML15-UM) | Deep reinforcement learning in Unity: cooperative agents trained with MA-POCA for a 2v2 soccer game, with a custom sound sensor. Team of 7; I co-ran the training experiments and the results analysis. | Unity ML-Agents · Python · C# |
 | 🦆 [**quackstagram**](https://github.com/kitzuuu/quackstagram) | Database and analytics for an Instagram-style app: a normalized MySQL schema, views that flag likely bot accounts, and 19 business-analytics queries. | SQL · MySQL · Java |
 | ✍️ [**hindi-digit-classifier**](https://github.com/kitzuuu/hindi-digit-classifier) | CNN that recognizes handwritten Hindi digits, trained on 17,000 images with data augmentation and test-time augmentation. | Python · PyTorch |
